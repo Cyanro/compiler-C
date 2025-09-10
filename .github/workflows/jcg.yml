@@ -1,4 +1,4 @@
-name: x86Compiler
+name: jcgCompiler
 
 on:
   workflow_dispatch:
