@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: git@github.com:Cyanro/lede
+  REPO_URL: https://github.com/Cyanro/lede
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: jcg.config
