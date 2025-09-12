@@ -1,4 +1,4 @@
-name: jcgCompiler
+name: cr660xCompiler
 
 on:
   workflow_dispatch:
